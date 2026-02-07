@@ -1,0 +1,7 @@
+{
+  "extends": "@repo/config-ts/node.json",
+  "compilerOptions": {
+    "rootDir": "./src"
+  },
+  "include": ["src"]
+}
