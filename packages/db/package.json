@@ -18,9 +18,9 @@
     "check-types": "tsc --noEmit"
   },
   "dependencies": {
-    "drizzle-orm": "^0.45.1",
+    "drizzle-orm": "^0.45.4",
     "drizzle-zod": "^0.8.3",
-    "postgres": "^3.4.5",
+    "postgres": "^3.4.9",
     "zod": "^3.25.76"
   },
   "devDependencies": {
@@ -28,7 +28,7 @@
     "@repo/config-ts": "workspace:*",
     "@types/node": "^22.10.0",
     "dotenv-cli": "^11.0.0",
-    "drizzle-kit": "^0.31.8",
+    "drizzle-kit": "^0.31.11",
     "eslint": "^9.18.0",
     "typescript": "^5.7.0"
   }
